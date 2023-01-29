@@ -727,7 +727,8 @@ styles.css
 ![Output](./out4.png)
 
 ## HTML Validator
-![Output](/.valid.png)
+![WhatsApp Image 2023-01-29 at 22 19 21](https://user-images.githubusercontent.com/119393933/215345282-7ee33394-cacb-4c47-b4e1-70c78ece8761.jpg)
+
 
 
 ## Result:
